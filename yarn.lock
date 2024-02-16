@@ -2399,13 +2399,13 @@
     "@types/react" "*"
     prop-types "^15.6.2"
 
-"@docusaurus/remark-plugin-npm2yarn@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/remark-plugin-npm2yarn/-/remark-plugin-npm2yarn-2.1.0.tgz#45d933002880e55ac70ac33a21894243e8af7643"
-  integrity sha512-crlbE7XN4m6f5PMW+1K0w1/r6YsJPBHPAnxBu+dwcObBYFKeNnmtci8mBOX/Ey1eeV9wO1yFwaSWKEn1EAbcbQ==
+"@docusaurus/remark-plugin-npm2yarn@^2.4.3":
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/@docusaurus/remark-plugin-npm2yarn/-/remark-plugin-npm2yarn-2.4.3.tgz#ce29ad152176e9ff746f142f1e2d02c2e6b76249"
+  integrity sha512-gBSzRPls2Nc1M+X8hTXLUJQ8mk+pTet7CGeTtgV02Hsk1G22yHYoCBW3r1aIqR27mVUHW9O5X4AN/Dt8x8Ifkg==
   dependencies:
-    npm-to-yarn "^1.0.1"
-    tslib "^2.4.0"
+    npm-to-yarn "^2.0.0"
+    tslib "^2.4.1"
     unist-util-visit "^2.0.3"
 
 "@docusaurus/theme-classic@2.1.0":
@@ -6232,10 +6232,10 @@ npm-run-path@^4.0.1:
   dependencies:
     path-key "^3.0.0"
 
-npm-to-yarn@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/npm-to-yarn/-/npm-to-yarn-1.0.1.tgz#6cdb95114c4ff0be50a7a2381d4d16131a5f52df"
-  integrity sha512-bp8T8oNMfLW+N/fE0itFfSu7RReytwhqNd9skbkfHfzGYC+5CCdzS2HnaXz6JiG4AlK2eA0qlT6NJN1SoFvcWQ==
+npm-to-yarn@^2.0.0:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/npm-to-yarn/-/npm-to-yarn-2.2.1.tgz#048843a6630621daffc6a239dfc89698b8abf7e8"
+  integrity sha512-O/j/ROyX0KGLG7O6Ieut/seQ0oiTpHF2tXAcFbpdTLQFiaNtkyTXXocM1fwpaa60dg1qpWj0nHlbNhx6qwuENQ==
 
 nprogress@^0.2.0:
   version "0.2.0"
@@ -8124,6 +8124,11 @@ tslib@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
   integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
+
+tslib@^2.4.1:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.6.2.tgz#703ac29425e7b37cd6fd456e92404d46d1f3e4ae"
+  integrity sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==
 
 type-fest@^0.20.2:
   version "0.20.2"
